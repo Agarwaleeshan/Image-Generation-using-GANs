@@ -70,7 +70,7 @@ Image 25:
 
 
 
-
+### The_Generation_process_GANs.avi is a video showing the gradual improvement and progress of the model from epoch 0 to 25.
 
 
 
